@@ -30,7 +30,7 @@ The goal of this assignment is to create a functional web application using Reac
 
 - Clone the repo: 
     ```
-    git clone https://github.com/ironman32022/IRIS_211ME262_3_PHP.git
+    git clone https://github.com/ironman32022/youtube-clone.git
     ```
 - Move to the base directory:
     ```
